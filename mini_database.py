@@ -1,6 +1,3 @@
-import sys
-
-
 class DB:
     def __init__(self):
         self.db = {}
